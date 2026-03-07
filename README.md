@@ -1,3 +1,8 @@
+[![CI](https://github.com/theluckystrike/webext-content-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/theluckystrike/webext-content-bridge/actions)
+[![npm](https://img.shields.io/npm/v/webext-content-bridge)](https://www.npmjs.com/package/webext-content-bridge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+
 # webext-content-bridge
 
 Type-safe RPC bridge between content script and background for Chrome extensions. Call functions, streaming, and lifecycle for Manifest V3.
@@ -122,3 +127,7 @@ For issues and contributions, please visit the GitHub repository.
 ## License
 
 MIT
+
+---
+
+Built by [theluckystrike](https://github.com/theluckystrike) — [zovo.one](https://zovo.one)
